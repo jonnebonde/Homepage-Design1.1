@@ -1,8 +1,33 @@
-
-
+header {
+    display: flex;
+    justify-content: center;
+}
+nav {
+    display: flex;
+}
 
 ul {
     list-style-type: none;
-    padding: 0;
-    margin: 0;
+    display: flex;
+    padding: 30% 1% 0 1%;
+    
+}
+ li {
+     padding: 0 10px 0 0;
+
+ }
+
+.searchbar {
+    padding-top: 31%;
+    
+}
+
+.searchbar_cta {
+    border: none;
+}
+
+.shopping_cart_cta {
+    padding-top: 31%;
+
+
 }
