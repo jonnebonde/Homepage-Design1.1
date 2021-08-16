@@ -2,6 +2,10 @@ header {
     display: flex;
     justify-content: center;
 }
+
+.mainlogo_img {
+   
+}
 nav {
     display: flex;
 }
